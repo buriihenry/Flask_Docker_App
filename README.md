@@ -1,5 +1,5 @@
 ## Building our Flask App and connecting it to Postgres db using Docker Compose
-In this project I will show you how to deploy ML model using Flask 
+In this project I will show you how to build a flask app using docker
 
 ### Requirements
 You must create a vitual environment for the app to run
